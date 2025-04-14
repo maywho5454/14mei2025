@@ -7292,9 +7292,7 @@ https://dl.dropboxusercontent.com/scl/fi/c9wtcewmia97tksgy1zu3/arena-sport-3.m3u
 
 #EXTINF:-1 group-logo="https://i.imgur.com/rxlrjkA.jpeg",BOLA | AFC U17
 
-#EXTINF:-1 group-logo="https://i.imgur.com/rxlrjkA.jpeg",BOLA | AFC U17
-
-#EXTINF:-1 group-title="BOLA | AFC U17" tvg-logo="https://i.imgur.com/rxlrjkA.jpeg",MNC SPORTSTARS 2
+#EXTINF:-1 group-title="BOLA | AFC U17" tvg-logo="https://i.imgur.com/rxlrjkA.jpeg",MNC SPORTSTARS 2 (WORTH 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
